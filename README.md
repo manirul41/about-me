@@ -58,16 +58,16 @@
 <!--
 Previous Github Stats
 
-<a href="https://github.com/shahnawaz-pabon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawaz-pabon&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Pabon's GitHub Stats" />
+<a href="https://github.com/manirul41">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manirul41&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Pabon's GitHub Stats" />
 </a>
 
-<a href="https://github.com/shahnawaz-pabon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawaz-pabon&hide=java,objective-c&title_color=76D7C4&text_color=c9cacc&icon_color=F0DB4F&bg_color=2c3e50" />
+<a href="https://github.com/manirul41">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manirul41&hide=java,objective-c&title_color=76D7C4&text_color=c9cacc&icon_color=F0DB4F&bg_color=2c3e50" />
 </a>
 
-<a href="https://github.com/shahnawaz-pabon/shahnawaz-pabon.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahnawaz-pabon&repo=shahnawaz-pabon.github.io&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" />
+<a href="https://github.com/manirul41/manirul41.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manirul41&repo=manirul41.github.io&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" />
 </a>
 -->
 
@@ -75,13 +75,13 @@ Previous Github Stats
 
 I already want to express my gratitude for using my projects. Buy me a coffee if you'd like to take it a step further and support my open source work:
 
-<a href="https://www.buymeacoffee.com/shahnawazhossan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/manirul41" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <br>
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahnawaz-pabon&color=1abc9c&label=PROFILE+VIEWS&style=flat" alt="pabon" />
+  <img src="https://komarev.com/ghpvc/?username=manirul41&color=1abc9c&label=PROFILE+VIEWS&style=flat" alt="manirul" />
 </p>
 
 <!-- Definitions -->
